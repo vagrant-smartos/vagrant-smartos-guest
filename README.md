@@ -3,6 +3,10 @@ vagrant-smartos-guest
 
 Adds Vagrant guest detection and guest capabilities for SmartOS.
 
+This plugin is superceded by [this pull request](https://github.com/mitchellh/vagrant/pull/3102),
+which adds SmartOS guest detection directly into Vagrant. At the
+time of this writing (Vagrant 1.5), it has not yet been released.
+
 ## Installation
 
 If using a development install of Vagrant, add the following to your
